@@ -122,15 +122,9 @@ The React single‑page app is served from the `public/` folder by Express.
 ---
 ## Demo Images
 
-![DSCE Calender](demo_images/cal_1.jpeg)
-
-
-![DSCE Calender](demo_images/cal_2.jpeg)
-
-
-![DSCE Calender](demo_images/cal_3.jpeg)
-
-
-
+| | |
+|---|---|
+| ![DSCE Calender](demo_images/cal_1.jpeg) | ![DSCE Calender](demo_images/cal_2.jpeg) |
+| ![DSCE Calender](demo_images/cal_3.jpeg) |  |
 
 
